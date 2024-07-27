@@ -26,40 +26,39 @@
           <Group type="102" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="1" attributes="0">
-                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                  </Group>
                   <Component id="jSeparator1" max="32767" attributes="0"/>
-                  <Group type="102" alignment="0" attributes="0">
+                  <Group type="102" attributes="0">
                       <EmptySpace min="0" pref="47" max="32767" attributes="0"/>
-                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="inputCelular" pref="137" max="32767" attributes="0"/>
-                          <Component id="labelCelular" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="labelCpf" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="labelNome" min="-2" max="-2" attributes="0"/>
-                          <Component id="inputNome" max="32767" attributes="0"/>
-                          <Component id="inputCpf" alignment="0" max="32767" attributes="0"/>
-                      </Group>
-                      <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="labelRua" min="-2" max="-2" attributes="0"/>
-                          <Component id="inputRua" min="-2" pref="139" max="-2" attributes="0"/>
-                          <Component id="labelBairro" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="inputBairro" alignment="0" min="-2" pref="139" max="-2" attributes="0"/>
-                          <Component id="labelEstado" min="-2" max="-2" attributes="0"/>
-                          <Component id="cbEstado" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="inputCelular" pref="137" max="32767" attributes="0"/>
+                                  <Component id="labelCelular" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="labelCpf" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="labelNome" min="-2" max="-2" attributes="0"/>
+                                  <Component id="inputNome" max="32767" attributes="0"/>
+                                  <Component id="inputCpf" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="labelRua" min="-2" max="-2" attributes="0"/>
+                                  <Component id="inputRua" min="-2" pref="139" max="-2" attributes="0"/>
+                                  <Component id="labelBairro" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="inputBairro" alignment="0" min="-2" pref="139" max="-2" attributes="0"/>
+                                  <Component id="labelEstado" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cbEstado" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="btnRecuperarDados" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
                       <EmptySpace min="0" pref="47" max="32767" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
-          </Group>
-          <Group type="102" alignment="1" attributes="0">
-              <EmptySpace max="32767" attributes="0"/>
-              <Component id="btnRecuperarDados" min="-2" max="-2" attributes="0"/>
-              <EmptySpace max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -68,7 +67,7 @@
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
               <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
-              <EmptySpace max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
               <Component id="jSeparator1" min="-2" pref="4" max="-2" attributes="0"/>
               <EmptySpace type="unrelated" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
